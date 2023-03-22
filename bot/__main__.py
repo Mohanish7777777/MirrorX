@@ -60,16 +60,16 @@ def stats(update, context):
             f"<b>├  🖥️ CPU : {cpuUsage}%</b>\n"
             f"<b>├  🚀 RAM : {memory}%</b>\n"
             f"<b>└  🗄 DISK : {disk}%</b>\n\n"
-            f"<b>【 🌟 Powered by @Bots137 】</b>"
+            f"<b>【 🌟 Powered by Mohanish.com 】</b>"
     )
     sendMessage(stats, context.bot, update)
 
 def start(update, context):
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
         start_string = f'''
-This bot is designed by @rahulkhatri137 to mirror your links to Google Drive and upload files to Telegram!
+This bot is designed by @Mohanish7777777 to mirror your links to Google Drive and upload files to Telegram!
 Type /{BotCommands.HelpCommand} to get a list of available commands.
-Powered by @Bots137
+Powered by @xadmin_chatbot
 '''
         sendMessage(start_string, context.bot, update)
     else:
