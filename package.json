@@ -1,0 +1,22 @@
+{
+  "name": "MirrorX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start",
+  "scripts": {
+    "start": " pip install -r requirements.txt && pip install -r requirements-cli.txt && python3 update.py && python3 -m bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohanish7777777/MirrorX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohanish7777777/MirrorX.git/issues"
+  },
+  "homepage": "https://github.com/Mohanish7777777/MirrorX.git#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
