@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mohanish7777777/MirrorX.git"
+    "url": "git+hhttps://github.com/Mohanish7777777/mirror-leech-telegram-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mohanish7777777/MirrorX.git/issues"
+    "url": "https://github.com/Mohanish7777777/mirror-leech-telegram-bot.git/issues"
   },
-  "homepage": "https://github.com/Mohanish7777777/MirrorX.git#readme",
+  "homepage": "https://github.com/Mohanish7777777/mirror-leech-telegram-bot.git#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
