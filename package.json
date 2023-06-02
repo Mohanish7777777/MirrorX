@@ -2,9 +2,9 @@
   "name": "MirrorX",
   "version": "1.0.0",
   "description": "",
-  "main": "start",
+  "main": "start".sh,
   "scripts": {
-    "start": " pip install -r requirements.txt && pip install -r requirements-cli.txt && python3 update.py && python3 -m bot"
+    "start": " python3 update.py && python3 -m bot"
   },
   "repository": {
     "type": "git",
