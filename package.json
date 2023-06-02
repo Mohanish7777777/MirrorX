@@ -43,5 +43,12 @@
      "tenacity"
      "TgCrypto"
      "yt-dlp"
+    "google-api-python-client
+"google_auth_oauthlib"
+"httplib2shim"
+"oauth2client"
+"progress"
+"progressbar2"
+"pyrogram"
   }
 }
