@@ -2,7 +2,7 @@
   "name": "MirrorX",
   "version": "1.0.0",
   "description": "",
-  "main": "start".sh,
+  "main": "start",
   "scripts": {
     "start": " python3 update.py && python3 -m bot"
   },
