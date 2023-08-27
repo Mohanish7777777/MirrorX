@@ -8,12 +8,12 @@ js2py
 lk21
 lxml
 megasdkrestclient
-psutil
+psutil==5.9.0
 pybase64
 hachoir
 pillow
 speedtest-cli
-cfscrape
+cloudscraper
 Pyrogram==2.0.93
 python-dotenv
 python-magic
